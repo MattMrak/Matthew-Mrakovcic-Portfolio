@@ -6,7 +6,10 @@
 <div align="center">
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FVolodumurSN%2FReact-Portfolio?ref=badge_shield" target="\_parent">
   
-  <img alt="Demo" src="https://res.cloudinary.com/dx6tl6aa2/image/upload/v1630345819/portfolio/promo/React-portfolio-github-readme-v2_scxxgs.png" />
+  <img alt="Matthew-Mrakovcic" src="https://res.cloudinary.com/dx6tl6aa2/image/upload/v1630345819/portfolio/promo/React-portfolio-github-readme-v2_scxxgs.png" />
+
+ <img alt="Matthew-Mrakovcic" src="LinkedIn Profile Pic.jpeg" />
+
 </div>
 
 ## Built With
