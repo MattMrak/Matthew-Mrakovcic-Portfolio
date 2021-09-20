@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
- <img alt="Matthew-Mrakovcic" src="https://imgur.com/mngYYL2" />
+ <img alt="Matthew-Mrakovcic" src="https://i.imgur.com/mngYYL2.jpg" />
 </div>
 
 ## Built With
