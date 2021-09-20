@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="website_url_here" target="_blank">www.matthewmrakovcic.com</a>
+  <a href="website_url_here" target="_blank">matthewmrakovcic.com</a>
 </h2>
 
 <div align="center">
