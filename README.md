@@ -25,7 +25,7 @@ This project was built using:
 
 ```terminal
 $ git clone ... // clone this project
-$ cd Matthew-Mrakovcic-Portfolio   // go to folder
-$ npm install       // install npm pacakges
+$ cd Matthew-Mrakovcic-Portfolio    // go to folder
+$ npm install   // install npm pacakges
 $ npm start // run it locally
 ```
