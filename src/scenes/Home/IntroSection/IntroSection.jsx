@@ -1,5 +1,4 @@
 import s from './IntroSection.module.scss';
-import avatar from '../../../assets/avatar.svg';
 import { AiFillGithub } from 'react-icons/ai';
 import {
   FaFacebookSquare,
@@ -54,7 +53,7 @@ const IntroSection = () => {
         </div>
 
         <Tilt trackOnWindow={true}>
-          <LazyLoadImage alt="avatar" effect="blur" src={avatar} />
+          <LazyLoadImage alt="avatar" effect="blur" src="https://i.imgur.com/M9exxLz.png" width="400px" height="400px"/>
         </Tilt>
       </div>
 

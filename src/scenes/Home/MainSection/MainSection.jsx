@@ -13,13 +13,13 @@ const MainSection = () => {
 
         <h1 className={s.mainTitle}>
           I'M
-          <strong className={s.mainName}> SNAICHUK VOLODYMYR</strong>
+          <strong className={s.mainName}> MATTHEW MRAKOVCIC</strong>
         </h1>
 
         <div style={{ paddingTop: 50 }}>
           <Typewriter
             strings={[
-              'MERN Stack Developer',
+              'Full Stack Developer',
               'Continuously Learning',
               'React Native Developer',
             ]}
