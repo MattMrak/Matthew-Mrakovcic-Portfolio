@@ -1,9 +1,8 @@
 import s from './IntroSection.module.scss';
-import { AiFillGithub } from 'react-icons/ai';
 import {
-  FaFacebookSquare,
   FaLinkedinIn,
-  FaTelegramPlane,
+  FaGithub,
+  FaMedium,
 } from 'react-icons/fa';
 import Tilt from 'react-parallax-tilt';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
@@ -66,42 +65,32 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-            >
-              <AiFillGithub />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.facebook.com/Snaychuk"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-            >
-              <FaFacebookSquare />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://t.me/snaichuk_v"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-            >
-              <FaTelegramPlane />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/matthew-mrakovcic/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
             >
               <FaLinkedinIn />
+            </a>
+          </li>
+          <li className={s.socialLink}>
+            <a
+              href="https://github.com/MattMrak"
+              target="_blank"
+              rel="noreferrer"
+              className={s.socialIcon}
+            >
+              <FaGithub />
+            </a>
+          </li>
+          <li className={s.socialLink}>
+            <a
+              href="https://matthewmrakovcic.medium.com/"
+              target="_blank"
+              rel="noreferrer"
+              className={s.socialIcon}
+            >
+              <FaMedium />
             </a>
           </li>
         </ul>

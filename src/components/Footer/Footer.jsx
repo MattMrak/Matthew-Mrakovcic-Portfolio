@@ -1,9 +1,8 @@
 import s from './Footer.module.scss';
-import { AiFillGithub } from 'react-icons/ai';
 import {
-  FaFacebookSquare,
   FaLinkedinIn,
-  FaTelegramPlane,
+  FaGithub,
+  FaMedium,
 } from 'react-icons/fa';
 
 const Footer = () => {
@@ -14,49 +13,40 @@ const Footer = () => {
     <div className={s.footer}>
       <div className={s.container}>
         <div className={s.copyright}>
-          <h3>Designed and Developed by Snaichuk Volodymyr</h3>
+          <h3>Designed and Developed by Matthew Mrakovcic</h3>
         </div>
 
         <div className={s.copyright}>
-          <h3>Copyright © {year} SV.dev</h3>
+          <h3>Copyright © {year} M.M.</h3>
         </div>
 
         <div className={s.body}>
           <ul className={s.socialIcons}>
             <li>
               <a
-                href="https://github.com/vsnaichuk"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.facebook.com/Snaychuk"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FaFacebookSquare />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://t.me/snaichuk_v"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FaTelegramPlane />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+                href="https://www.linkedin.com/in/matthew-mrakovcic/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/MattMrak"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaGithub />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://matthewmrakovcic.medium.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaMedium />
               </a>
             </li>
           </ul>
