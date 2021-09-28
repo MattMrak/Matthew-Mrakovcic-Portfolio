@@ -47,9 +47,9 @@ export const PROJECTS = [
     description:
       'Become a secret agent and make all of your missions possible with this fun and interactive Ruby on Rails to-do list!',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
+      src: 'https://i.imgur.com/kfDBlP9.png',
       placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+        'https://i.imgur.com/kfDBlP9.png',
     },
     links: {
       site: 'https://drive.google.com/file/d/1Z3nY40u1wTN2KUJohhvJGJeoTRaTUMWP/view?usp=sharing',
@@ -67,9 +67,9 @@ export const PROJECTS = [
     description:
       'The goal of this website application is to keep track of all the destinations you have visited using Sinatra.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
+      src: 'https://i.imgur.com/qL4E1We.png',
       placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+        'https://i.imgur.com/qL4E1We.png',
     },
     links: {
       site: 'https://drive.google.com/file/d/1WsHTipMABE-R5RAFfdOTnPoJQhBajfJ9/view?usp=sharing',
