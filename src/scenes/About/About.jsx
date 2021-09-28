@@ -1,6 +1,5 @@
 import s from './About.module.scss';
 import BaseLayout from '../../layouts/BaseLayout/BaseLayout';
-import aboutPromoImg from '../../assets/about-promo.svg';
 import AboutTextCard from './AboutTextCard/AboutTextCard';
 import TechSkills from './TechSkills/TechSkills';
 import GithubActivity from './GithubActivity/GithubActivity';
@@ -12,13 +11,13 @@ const About = () => {
         <div className={s.about}>
           <div className={s.aboutDescription}>
             <h1 className={s.title}>
-              Know Who <b className={s.purple}>I'M</b>
+              Who Am <b className={s.purple}>I</b>
             </h1>
             <AboutTextCard />
           </div>
 
           <div className={s.aboutImg}>
-            <img src={aboutPromoImg} alt="about" />
+            <img src="https://content.techgig.com/photo/79198520/software-engineer-vs-network-engineer-find-out-which-one-is-for-you.jpg?119058" alt="about" />
           </div>
         </div>
 
