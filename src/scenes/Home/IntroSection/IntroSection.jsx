@@ -4,8 +4,6 @@ import {
   FaGithub,
   FaMedium,
 } from 'react-icons/fa';
-import Tilt from 'react-parallax-tilt';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 const IntroSection = () => {
   return (
@@ -19,41 +17,12 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I fell in love with programming and I have at least
-              learnt something, I think… 🤷‍♂️
-            </p>
-
-            <p>
-              My field of Interest's are building new
-              <i>
-                <b className={s.purple}>
-                  {' '}
-                  Web Technologies and Products
-                </b>
-              </i>
-            </p>
-
-            <p>
-              A passionate Full Stack Software Developer 🚀 <br />I
-              have an experience of building{' '}
-              <i>
-                <b className={s.purple}>Web and Mobile</b>
-              </i>{' '}
-              applications with
-              <br />
-              <i>
-                <b className={s.purple}>
-                  JavaScript, Reactjs, Nodejs, React Native
-                </b>
-              </i>{' '}
-              and some other cool libraries
+              A passionate Full Stack Software Developer with backgrounds in accounting and operations management.
+              Experienced with JavaScript, React, Redux, SQL, Ruby, Rails, etc.
+              Possess strong skills in organization and problem-solving that help finance-driven companies more efficiently complete tasks.
             </p>
           </div>
         </div>
-
-        <Tilt trackOnWindow={true}>
-          <LazyLoadImage alt="avatar" effect="blur" src="https://i.imgur.com/M9exxLz.png" width="400px" height="400px"/>
-        </Tilt>
       </div>
 
       <div className={s.introSocial}>
