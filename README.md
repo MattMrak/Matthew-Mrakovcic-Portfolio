@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="website_url_here" target="_blank">matthewmrakovcic.com</a>
+  <a href="website_url_here" target="_blank">matthewmrakovcic.netlify.app</a>
 </h2>
 
 <div align="center">
@@ -8,8 +8,6 @@
 </div>
 
 ## Built With
-
-My personal portfolio <a href="website_url_here" target="_blank">matthewmrakovcic.netlify.app</a> <br/>
 
 This project was built using:
 - React.js
