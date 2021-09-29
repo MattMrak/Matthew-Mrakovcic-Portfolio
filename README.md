@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="website_url_here" target="_blank">matthewmrakovcic.netlify.app</a>
+  <a href="website_url_here" target="_blank">https://matthewmrakovcic.netlify.app/</a>
 </h2>
 
 <div align="center">
