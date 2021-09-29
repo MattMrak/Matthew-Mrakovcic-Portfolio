@@ -20,7 +20,7 @@ const MainSection = () => {
             strings={[
               'Full Stack Developer',
               'Continuously Learning',
-              'Hardworking & Dedicated',
+              'React, JavaScript, Rails, & More',
             ]}
             wrapperClassName={s.typewriterWrapper}
             cursorClassName={s.typewriterCursor}
