@@ -14,9 +14,10 @@ const ModalProjectCard = () => {
     (p) => id === p.id,
   );
   const { isVisible, toggleModal } = useModal();
-
+  
   useEffect(() => {
     toggleModal();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
