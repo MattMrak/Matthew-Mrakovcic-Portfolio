@@ -1,18 +1,18 @@
 import s from './TechSkills.module.scss';
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiGit,
-  DiSass,
-} from 'react-icons/di';
-import {
-  SiTypescript,
-  SiRedux,
-  SiSocketDotIo,
-  SiAmazonaws,
-} from 'react-icons/si';
+// import {
+//   DiJavascript1,
+//   DiReact,
+//   DiNodejs,
+//   DiMongodb,
+//   DiGit,
+//   DiSass,
+// } from 'react-icons/di';
+// import {
+//   SiTypescript,
+//   SiRedux,
+//   SiSocketDotIo,
+//   SiAmazonaws,
+// } from 'react-icons/si';
 
 const TechSkills = () => {
   return (

@@ -25,7 +25,7 @@ export const ThemeProvider = ({ children }) => {
       setDark(localeDark);
       document.body.classList.add(localeDark ? 'dark' : 'light');
     }
-  }, []);
+  }, [dark]);
 
   return (
     <ThemeContext.Provider value={{ dark, toggleTheme }}>
