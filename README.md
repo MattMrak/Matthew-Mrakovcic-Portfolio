@@ -23,5 +23,5 @@ This project was built using:
 $ git clone ... // clone this project
 $ cd Matthew-Mrakovcic-Portfolio    // go to folder
 $ npm install   // install npm pacakges
-$ npm start // run it locally
+$ npm start // run it locally on localhost:3000
 ```
