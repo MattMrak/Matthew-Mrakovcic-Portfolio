@@ -12,7 +12,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://docs.google.com/document/d/1btOI-ri89xm0vgvHbkXGF55Qx-MHNRVyRgb3wpvYtKE/edit?usp=sharing';
+  'https://docs.google.com/document/d/1FbPwQ_Tr9j0tLTa9wTCea0aPiKMFRyPNrh0M7WsO3Z0/edit?usp=sharing';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
@@ -65,7 +65,7 @@ const Resume = () => {
 
         <div className={s.pdfWrapper} ref={pdfWrapper}>
           {/* <img src="https://i.imgur.com/kgrCx2M.jpg" alt="Matthew Mrakovcic Resume" width="400" height="550" /> */}
-          <img src="https://i.imgur.com/kgrCx2M.jpg" alt="Matthew Mrakovcic Resume" width={pdfPageWidth} />
+          <img src="https://imgur.com/cnDx51f" alt="Matthew Mrakovcic Resume" width={pdfPageWidth} />
 
         </div>
 
