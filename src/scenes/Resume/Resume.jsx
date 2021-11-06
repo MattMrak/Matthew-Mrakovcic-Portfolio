@@ -65,7 +65,7 @@ const Resume = () => {
 
         <div className={s.pdfWrapper} ref={pdfWrapper}>
           {/* <img src="https://i.imgur.com/kgrCx2M.jpg" alt="Matthew Mrakovcic Resume" width="400" height="550" /> */}
-          <img src="https://imgur.com/cnDx51f" alt="Matthew Mrakovcic Resume" width={pdfPageWidth} />
+          <img src="https://i.imgur.com/cnDx51f.png" alt="Matthew Mrakovcic Resume" width={pdfPageWidth} />
 
         </div>
 
