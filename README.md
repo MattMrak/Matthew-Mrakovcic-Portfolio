@@ -9,13 +9,13 @@
 
 ## Built With
 
-This project was built using:
+This portfolio was built using:
 - React.js
+- JavaScript
 - SASS
 - Cloudinary
 - Workbox
 - Netlify
-- WebStorm
 
 ## Getting Started
 
