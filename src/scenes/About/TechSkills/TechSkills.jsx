@@ -84,7 +84,7 @@ const TechSkills = () => {
         RESTful API Development
       </li>
       <li className={s.techIcon}>
-        Object-Oriented Programming
+        OOP
       </li>
       {/* <li className={s.techIcon}>
         <DiJavascript1 />
