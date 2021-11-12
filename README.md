@@ -11,6 +11,7 @@
 
 This portfolio was built using:
 - React.js
+- CSS
 - SASS
 - Cloudinary
 - Workbox
