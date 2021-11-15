@@ -24,18 +24,6 @@ const Resume = () => {
     );
   }, [pdfPageWidth]);
 
-  // const removeTextLayerOffset = () => {
-  //   const textLayers = document.querySelectorAll(
-  //     '.react-pdf__Page__textContent',
-  //   );
-  //   textLayers.forEach((layer) => {
-  //     const { style } = layer;
-  //     style.top = '0';
-  //     style.left = '0';
-  //     style.transform = '';
-  //   });
-  // };
-
   return (
     <BaseLayout>
       <div className={s.content}>
@@ -184,3 +172,16 @@ export default Resume;
 // };
 
 // export default Resume;
+
+
+  // const removeTextLayerOffset = () => {
+  //   const textLayers = document.querySelectorAll(
+  //     '.react-pdf__Page__textContent',
+  //   );
+  //   textLayers.forEach((layer) => {
+  //     const { style } = layer;
+  //     style.top = '0';
+  //     style.left = '0';
+  //     style.transform = '';
+  //   });
+  // };
