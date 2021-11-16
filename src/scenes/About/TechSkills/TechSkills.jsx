@@ -69,9 +69,6 @@ const TechSkills = () => {
         GitHub
       </li>
       <li className={s.techIcon}>
-        ObjectScript
-      </li>
-      <li className={s.techIcon}>
         Software Testing
       </li>
       <li className={s.techIcon}>
