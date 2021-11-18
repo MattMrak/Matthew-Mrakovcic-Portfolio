@@ -23,5 +23,5 @@ This portfolio was built using:
 $ git clone ... // clone this project
 $ cd Matthew-Mrakovcic-Portfolio    // go to folder directory
 $ npm install   // install npm pacakges
-$ npm start // run it locally on localhost:3000
+$ npm start // run application locally on localhost:3000
 ```
