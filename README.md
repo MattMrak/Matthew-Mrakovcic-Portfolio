@@ -25,3 +25,6 @@ $ cd Matthew-Mrakovcic-Portfolio    // go to folder directory
 $ npm install   // install npm pacakges
 $ npm start // run application locally on localhost:3000
 ```
+
+## Contributor's Guide
+This project was created at "https://github.com/MattMrak/Matthew-Mrakovcic-Portfolio". Pull requests and Bug Reports are supported.
