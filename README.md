@@ -29,3 +29,7 @@ $ npm start // run application locally on localhost:3000
 ## Contributor's Guide
 
 This portfolio was created at "https://github.com/MattMrak/Matthew-Mrakovcic-Portfolio". Pull requests and Bug Reports are supported.
+
+## License
+
+The license is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT). 
